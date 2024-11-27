@@ -15,3 +15,7 @@ This project is a Python-based application that generates random passwords of us
 2. Run the script in a terminal or an IDE:
    ```bash
    python password_generator.py
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/3113dde2-83cb-4607-87ee-652c391d8014)
+
